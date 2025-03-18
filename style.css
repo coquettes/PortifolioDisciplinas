@@ -94,8 +94,8 @@ padding: 10px 0;
 
 h1 {
     color: rgb(241, 32, 77);
-    font-size: 22px;
-    font-family: system-ui, 'Open Sans', 'Helvetica Neue', sans-serif 
+    font-size: 28px;
+    font-family:'Courier New', Courier, monospace
 }
 
 .titulo{
@@ -107,7 +107,7 @@ h1 {
 }
 
 .materias li{
-    margin: 40px;
+    margin: 50px;
     justify-content: flex-end;
     list-style: none;
 
@@ -115,7 +115,7 @@ h1 {
 
 .materias li a{
     text-decoration: none;
-    font-size: 16px;
-    font-family: system-ui, 'Open Sans', 'Helvetica Neue', sans-serif; 
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace; 
     color: rgb(161, 2, 42);
 }
