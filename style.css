@@ -95,7 +95,7 @@ padding: 10px 0;
 h1 {
     color: rgb(241, 32, 77);
     font-size: 28px;
-    font-family:'Courier New', Courier, monospace
+    font-family: 'Lucida Sans', 'Lucida Sans Unicode', sans-serif;
 }
 
 .titulo{
@@ -116,6 +116,6 @@ h1 {
 .materias li a{
     text-decoration: none;
     font-size: 20px;
-    font-family: 'Courier New', Courier, monospace; 
+    font-family: 'Lucida Sans', 'Lucida Sans Unicode', sans-serif; 
     color: rgb(161, 2, 42);
 }
