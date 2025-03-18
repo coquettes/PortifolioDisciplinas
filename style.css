@@ -59,7 +59,7 @@ padding: 10px 0;
     width: 0;
     height: 0;
     margin: 30px 0 20px 20px;
-    background: radial-gradient(circle, #f11985, #f00078);
+    background: radial-gradient(circle, #5f0633, #f00078);
     border-radius: 70%;
     transition: 0.3s ease;
 }
