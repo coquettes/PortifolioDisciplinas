@@ -16,7 +16,7 @@ header {
 .bar{
     height: 4px;
     width: 8px;
-    background-color: rgb(245, 39, 210);
+    background-color: rgba(228, 9, 9, 0.781);
     display: block;
     border-radius: 5px;
     transition: 0.3s ease;
