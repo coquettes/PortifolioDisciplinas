@@ -22,3 +22,9 @@ h1 {
 body{
     background-color: rgb(241, 167, 223);
 }
+footer p {
+    background-color: rgba(0, 0, 0, 0.652);
+    text-align: center;
+    color: #fff;
+    padding: 4px;
+}
