@@ -9,7 +9,7 @@ header {
 
 h1 {
     color: rgb(110, 4, 57);
-    font-size: 15px;
+    font-size: 28px;
     font-family:'Lucida Sans', 'Lucida Sans Unicode', sans-serif;
 }
 
@@ -19,7 +19,7 @@ h1 {
 body{
     background-color: rgb(238, 143, 183);
     text-decoration: none;
-    font-size: 200%;
+    
 }
 footer p {
     background-color: rgba(0, 0, 0, 0.652);
