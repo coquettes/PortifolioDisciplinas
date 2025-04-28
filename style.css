@@ -122,3 +122,6 @@ h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Unicode', sans-serif; 
     color: rgb(161, 2, 42);
 }
+.footer{
+    margin: 200px;
+}
