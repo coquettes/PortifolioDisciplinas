@@ -9,7 +9,7 @@ header {
 }
 body{
     background-color: rgb(231, 194, 248);
-    height: 100vh;
+    height: 100%;
 }
 #menu{
     width: 30px;
