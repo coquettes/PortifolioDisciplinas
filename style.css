@@ -123,6 +123,8 @@ h1 {
     color: rgb(161, 2, 42);
 }
 .footer{
-    margin: 200px;
-    padding-inline-end: 80px;
+    background-color: rgba(0, 0, 0, 0.652);
+    text-align: center;
+    color: #fff;
+    padding: 4px;
 }
