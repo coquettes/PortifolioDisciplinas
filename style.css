@@ -77,7 +77,7 @@ padding: 10px 0;
     transform: translate(-60%,-30%);
 }
 .change .bar{
-    background-color: white;
+    background-color: rgb(208, 29, 116);
 }
 
 .change #bar1{
